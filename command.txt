@@ -1,0 +1,21 @@
+// To see the user name 
+git config  --global user.name
+
+// to see the gmail name
+git config  --global user.email
+
+// sob kisu clean korte 
+use ( clear )
+
+// hidden  file dekhte hole 
+ls -la
+
+// folder a ki ki file ase ta dekhte 
+la
+
+// notun kono blank file banate use korbo
+touch
+
+//git ar bortoman obostha janar jonno use korbo
+git status
+
